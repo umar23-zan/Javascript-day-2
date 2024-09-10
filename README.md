@@ -142,7 +142,7 @@ j. Continuing from 4i, add onclick="..." attributes to the two buttons:
     ">Buy Now</button>
   </body>
 ```
-##Variables
+## Variables
 a. Create a <script> element. Inside the <script>, create a variable called 'name', and save your name in this variable (as a string).
 ```
 <script>
